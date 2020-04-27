@@ -56,7 +56,7 @@ https://www.mongodb.com/
     - [Heroku](https://www.heroku.com)
 
 # Authors
-- Krzesniak Magdalena-Izabel 
+- Krzesniak Magdalena-Izabela 
   - *Main Developer* 
   - [beecadox](https://github.com/beecadox)
 - Tasatzis Christos
