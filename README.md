@@ -2,7 +2,7 @@
 Website used to store Public Transport Card Info such as Personal Info, remaining days and tickets inside the card as well as remaining money in the e-wallet each client has. 
 Each client can buy more tickets as well as put more money in their e-wallet for later use.
 
-Made for an university project.
+Made for a university project.
 # Getting Started
 Instruction needed in order for someone to run the project in a local machine for development and testing purposes.
 
